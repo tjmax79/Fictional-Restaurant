@@ -1,0 +1,24 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+.text-bg-purple{
+    background-color: #8e44ad;
+}
+
+.text-btn{
+    color:#8e44ad;
+}
+
+.text-btn:hover{
+    color: #ffffff;
+    background-color: rgba(245,238,245,0.473) !important
+}
+
+@media(min-width:800px){
+    .container{
+        /* background color:green */
+      
+        width: 800px;
+    }
+}

@@ -1,0 +1,66 @@
+body{
+    padding: 2rem;
+    background-color:lavender;
+
+}
+
+
+a{
+    color: black;
+    text-decoration: none;
+    text-align: start;
+
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.navigation{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 35%;
+    height: 3rem;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+
+
+}
+.link{
+    display: inline-block;
+    width: 5rem;
+}
+
+.logo{
+    align-self: flex-start;
+    font-family:;
+   font-size: 35px;
+   text-align: right;
+   color: blue;
+   margin-bottom: 3rem;
+}
+ 
+#frm{
+    font-size: 25px;
+    border: double red;
+    background-color: bisque;
+    border-width: 3px;
+margin-left: 300px;
+margin-right: 300px;
+    text-align: center;
+
+
+
+}
+#para1{
+    font-size: 35px;
+    text-align: center;
+    
+}
+#copyright{
+    padding-top: 10px;
+}
+
+
+    
